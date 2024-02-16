@@ -49,3 +49,7 @@ The road accident dataset is available for public access through Kaggle website.
 - Discovered correlations between weather conditions, road characteristics, and accident severity, highlighting the importance of weather-aware driving practices and road maintenance.
 
 - Generated actionable insights for transportation authorities and policymakers to implement evidence-based road safety initiatives, public awareness campaigns, and traffic management strategies.
+
+## Repository
+
+https://github.com/Oluchiumeh/Road-Accident
