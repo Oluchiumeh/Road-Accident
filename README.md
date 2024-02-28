@@ -3,7 +3,7 @@
 **Outline**
 - Project Overview
 
-- Data Sources
+- Data Source
 
 - Tools Used
 
@@ -15,7 +15,7 @@
 
 This project entails analyzing road accident data using SQL queries and Excel to gain insights into accident trends, contributing factors, and geographical hotspots. By leveraging SQL for data manipulation and Excel for visualization, the analysis aims to provide actionable insights to transportation authorities and policymakers for improving road safety measures and reducing accident rates.
 
-## Data Sources
+## Data Source
 
 The road accident dataset is available for public access through Kaggle website. Researchers, policymakers, and stakeholders interested in analyzing road safety trends and implementing targeted interventions are encouraged to utilize this valuable resource to promote safer road environments and reduce accident rates. The road accident dataset utilized in this analysis provides comprehensive information on vehicular accidents occurring across diffrent regions over a specified time period.
 
